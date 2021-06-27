@@ -15,7 +15,7 @@
 
 Hi, I'm Manish Joshi, a passionate and Creative Software Engineer from India.
 
-- 🔭 I’m currently working on my project [Angular Todo App](https://github.com/AdReVice/HRISAngApp)
+- 🔭 I’m currently working on my project [Expense Tracker](https://github.com/AdReVice/HRISAngApp)
 - 🌱 I’m currently learning Typescript & Angular
 
 **Languages and Tools:**  
